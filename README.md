@@ -12,9 +12,7 @@ We solve the wave equation:
 
 
 
-\[
-\frac{\partial^2 u}{\partial t^2} = c^2 \frac{\partial^2 u}{\partial x^2}, \quad c=1
-\]
+<img width="472" height="141" alt="image" src="https://github.com/user-attachments/assets/845634ed-2403-4121-a163-f8f0265a2a43" />
 
 
 
