@@ -61,9 +61,11 @@ Data exports:
   Pkg.add(["NeuralPDE", "Lux", "Optimization", "OptimizationOptimJL", "ModelingToolkit"])
 
 Running the Code
+
 Clone the repository:
 git clone https://github.com/your-username/1D-wave-PINN.git
 cd 1D-wave-PINN
+
 
 Run the main script:
 include("wave_pinn.jl")
